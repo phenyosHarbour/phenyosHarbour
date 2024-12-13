@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: A Smart Expense Tracker with Predictive Analytics.<br>👯 I’m looking to collaborate on: Open-source projects involving Java, Python, machine learning, or innovative web applications.<br>🤝 I’m looking for help with: Building scalable machine learning models and enhancing UI/UX design for my applications.<br>🌱 I’m currently learning: Advanced machine learning concepts,  and Python for data science.<br>💬 Ask me about: Java development, building intuitive UIs with Swing or WPF.<br>⚡ Fun fact: I love Formula 1 racing!
+🔭 I’m currently working on: A Smart Expense Tracker with Predictive Analytics.<br>👯 I’m looking to collaborate on: Open-source projects involving Java, Python, machine learning, or innovative web  applications.<br>🤝 I’m looking for help with: Building scalable machine learning models and enhancing UI/UX design for my  applications.<br>🌱 I’m currently learning: Advanced machine learning concepts,  and Python for data science.<br>💬 Ask me about: Java development, building intuitive UIs with Swing or WPF.<br>⚡ Fun fact: I love Formula 1 racing!
 
 
 ## 🌐 Socials:
